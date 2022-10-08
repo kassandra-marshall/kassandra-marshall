@@ -1,4 +1,10 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Kassandra</h1>
+<h3 align="center">A passionate fullstack developer from Maryland</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <!--
 **kassandra-marshall/kassandra-marshall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
