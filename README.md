@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kassandra</h1>
 <h3 align="center">A passionate fullstack developer from Maryland</h3>
 
+About Me
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, React, Cypress**
-
+- Hobbies: playing video games, watching horror movies, knit/crochet, coding :)
+- Favorite Video Game: Tomb Raider
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kassandra-marshall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kassandra-marshall" height="30" width="40" /></a>
