@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kassandra</h1>
-<h3 align="center">A passionate Full-Stack Developer from Maryland</h3>
+<h3 align="center">A passionate Full-Stack Developer from Maryland seeking a role where I can support other developers or clients.</h3>
 
-- 🌱 I’m currently learning **Javascript, React, Redux, SQLite, and jest**
+- 🌱 I’ve learned **JavaScript, React, Redux, SQLite, jest, Node.js, and Express**
 
-- ⚡ Fun fact **I am most excited about working in testing.**
+- ⚡ Fun fact **I am most excited about working in testing or finding ways to support other developers.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
